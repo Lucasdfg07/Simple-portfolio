@@ -14,7 +14,7 @@ Here are the technologies used in this project.
 
 * Github
 
-### Apps initial page
+### Initial page
 
 ![Initial page](https://github.com/Lucasdfg07/Simple-portfolio/blob/master/images/readme_images/initial1.png)
 ![Initial page](https://github.com/Lucasdfg07/Simple-portfolio/blob/master/images/readme_images/initial2.png)
